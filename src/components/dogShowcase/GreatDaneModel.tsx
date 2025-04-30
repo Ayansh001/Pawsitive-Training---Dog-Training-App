@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const GreatDaneModel: React.FC = () => {
@@ -25,4 +24,4 @@ const GreatDaneModel: React.FC = () => {
   );
 };
 
-
+export default GreatDaneModel;
